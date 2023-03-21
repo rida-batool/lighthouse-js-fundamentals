@@ -19,4 +19,4 @@ function carPassing(cars, speed){
 }
 
 let speed = 50;
- console.log(carPassing(cars, speed));
+console.log(carPassing(cars, speed));
